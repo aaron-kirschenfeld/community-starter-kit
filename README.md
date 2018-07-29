@@ -1,6 +1,6 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This app will help onboard new members of our development team. 
 
 ## What it does
 
