@@ -3,7 +3,9 @@ This app will help onboard new members of our development team.
 
 ## What it does
 - This app pops up a notice when a member of the team takes an action within GitHub. 
-
+  - Create a new issue
+  - Open a new pull request
+  - Merge their first pull request
 
 ## Getting started
 
