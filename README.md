@@ -1,10 +1,9 @@
 # welcome bot: A Probot App
-
 This app will help onboard new members of our development team. 
 
 ## What it does
+- This app pops up a notice when a member of the team takes an action within GitHub. 
 
-FEATURES PLACEHOLDER
 
 ## Getting started
 
